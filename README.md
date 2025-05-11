@@ -50,5 +50,10 @@ To conclude, this Swing application offers the user both an educational and func
 ## Output of the Layout
 ![Image](https://github.com/user-attachments/assets/9260f1ac-c11f-4405-ac34-8f16eb8e8548)
 
-##The Read Button
+##The Open/Read Button
+![Image](https://github.com/user-attachments/assets/3dd5ea55-f0bd-4dde-ae58-a08125de2f21)
+
+##The Write Button
+
+##The Modify Button
 
