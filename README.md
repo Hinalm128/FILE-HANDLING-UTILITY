@@ -48,22 +48,5 @@ The softer pastel interface colors as well as the styled buttons significantly e
 To conclude, this Swing application offers the user both an educational and functional tool which allows the user to learn the basics of file handling through a graphical interface. This application serves as an example on how to combine input from the user, file input output (I/O), and event handling in one well structured desktop application. 
 
 ## Output of the Layout
+
 ![Image](https://github.com/user-attachments/assets/9260f1ac-c11f-4405-ac34-8f16eb8e8548)
-
-##The Open/Read Button
-![Image](https://github.com/user-attachments/assets/3dd5ea55-f0bd-4dde-ae58-a08125de2f21)
-
-##The Write Button
-
-##The Modify Button
-1. Open a File.
-![Image](https://github.com/user-attachments/assets/3dd5ea55-f0bd-4dde-ae58-a08125de2f21)
-
-2. Edit/Modify the Content.
-![Image](https://github.com/user-attachments/assets/1a9fab73-6711-4043-95a0-1d737176e23e)
-
-3. Click on the OK_OPTION of the Confirmation Box.
-![Image](https://github.com/user-attachments/assets/f09ad6b6-6a8d-4053-a11e-78393325da15)
-
-4. Content Successfully Modified.
-![Image](https://github.com/user-attachments/assets/31b6e814-7b9e-468b-a25c-6e5e67b95942)
